@@ -252,7 +252,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
 
 <img width="1920" height="1080" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/46b8aa53-6250-4929-a34b-390886677f40" />
 
-<img width="1920" height="1080" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/a1f834ae-c698-4cd2-a899-fe0da29a91fb" />
+<img width="1918" height="1078" alt="Screenshot 2026-05-27 205729" src="https://github.com/user-attachments/assets/151e7065-0da6-48ea-a3e7-9680d6ccacd8" />
 
 
 ## RESULT
